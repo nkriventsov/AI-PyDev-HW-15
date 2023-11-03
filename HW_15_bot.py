@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 
 # токен Телеграм бота - введите токен Вашего бота
-TOKEN = 'INPUT YOUR TOKEN'
+TOKEN = 'INPUT YOUR TOKEN!'
 # подключение к боту
 bot = telebot.TeleBot(TOKEN)
 # Текст для модулей в разработке
